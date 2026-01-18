@@ -1,9 +1,5 @@
 🏠 AI Real Estate Appraiser (Ames Housing)
-![alt text](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)
 
-![alt text](https://img.shields.io/badge/Python-3.9%2B-blue)
-
-![alt text](https://img.shields.io/badge/Library-Scikit--Learn-orange)
 Live Demo: https://ames-housing-ai.streamlit.app/
 GitHub Repository: https://github.com/lokesh172757/house-price-predictor
 📌 Project Overview
