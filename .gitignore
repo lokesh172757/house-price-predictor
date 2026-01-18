@@ -1,0 +1,17 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+.virtual_documents/
+
+# Python compiled files
+__pycache__/
+*.pyc
+
+
+# Mac system files (if you are on Mac)
+.DS_Store
+
+# Virtual Environments (if you made one)
+env/
+venv/
+.env/
+anaconda_projects/
